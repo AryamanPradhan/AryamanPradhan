@@ -1,16 +1,58 @@
-## Hi there 👋
 
-<!--
-**AryamanPradhan/AryamanPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ✨ Aryaman Pradhan ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+「 code • context • clarity 」
+
+</div>
+
+---
+
+## 🌙 About Me
+- 🧠 ML & GenAI explorer  
+- ⚙️ Backend-first, system thinker  
+- 🌌 I build software that *understands context*
+
+---
+
+## ⚔️ Tech I Use
+- **Python • Dart • TypeScript**
+- **Django • Angular • Flutter**
+- **PostgreSQL**
+- **RAG • LoRA • Fine-Tuning**
+
+---
+
+## 📜 Current Focus
+- Context-Aware AI Systems  
+- End-to-End Real-World Applications  
+- Clean Architecture > Quick Hacks
+
+---
+
+## 🗂️ Selected Works
+- **Context-Aware Vehicle Maintenance**
+- **Fine-Tuned Q&A (RAG vs Open Knowledge)**
+- **Text Style Transfer with LoRA**
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryamanPradhan&show_icons=true&hide_title=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanPradhan&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+> *“Good code solves problems.  
+> Great code understands them.”*
+
+🌑 ⭐ 🌑
+
+</div>
