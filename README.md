@@ -34,7 +34,6 @@
 ## 🗂️ Selected Works
 - **Context-Aware Vehicle Maintenance**
 - **Fine-Tuned Q&A (RAG vs Open Knowledge)**
-- **Text Style Transfer with LoRA**
 
 ---
 
