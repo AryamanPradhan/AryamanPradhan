@@ -37,16 +37,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AryamanPradhan&theme=tokyonight&hide_border=true" />
-<img src="https://metrics.lecoq.io/AryamanPradhan?template=classic&isocalendar=1&languages=1&theme=tokyonight" />
-
-
-
-</div>
-
----
 
 <div align="center">
 
