@@ -39,8 +39,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AryamanPradhan&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=AryamanPradhan&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AryamanPradhan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
