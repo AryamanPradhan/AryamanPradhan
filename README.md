@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryamanPradhan&show_icons=true&hide_title=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=AryamanPradhan&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryamanPradhan&layout=compact&theme=tokyonight" />
 
