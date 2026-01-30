@@ -12,13 +12,13 @@
 ## 🌙 About Me
 - 🧠 ML & GenAI explorer  
 - ⚙️ Backend-first, system thinker  
-- 🌌 I build software that *understands context*
+- 🌌 I build 
 
 ---
 
 ## ⚔️ Tech I Use
-- **Python • Dart • TypeScript**
-- **Django • Angular • Flutter**
+- **Python • TypeScript**
+- **Django • Angular r**
 - **PostgreSQL**
 - **RAG • LoRA • Fine-Tuning**
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🗂️ Selected Works
-- **Context-Aware Vehicle Maintenance**
+
 - **Fine-Tuned Q&A (RAG vs Open Knowledge)**
 
 ---
